@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
 Balushai
 Kadhi Chawal
+=======
+ZNMD
+3 Idiots
+Taare Zameen Par
+>>>>>>> movies
